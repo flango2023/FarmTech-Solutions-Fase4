@@ -10,16 +10,16 @@
 
 ## Grupo FarmTech Solutions
 
-## 👨🎓 Integrantes: 
+## Integrantes: 
 - <a href="https://www.linkedin.com/in/richard-schmitz/">Richard Schmitz - RM567951</a>
 
-## 👩🏫 Professores:
+## Professores:
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/company/fiap/">Professor FIAP</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/fiap/">Coordenador FIAP</a>
 
-## 📜 Descrição
+## Descrição
 
 O projeto FarmTech Solutions - Fase 4 representa a evolução do sistema de irrigação inteligente para um Assistente Agrícola completo baseado em Inteligência Artificial. Esta fase implementa Machine Learning supervisionado utilizando Scikit-Learn para prever variáveis críticas do campo e sugerir ações automatizadas de irrigação e manejo agrícola.
 
@@ -27,7 +27,7 @@ O sistema integra modelos de regressão (linear, múltipla e não-linear) com um
 
 A implementação inclui cinco modelos diferentes: Regressão Linear Simples, Regressão Múltipla, Regressão Polinomial, Random Forest e Gradient Boosting, todos avaliados com métricas MAE, MSE, RMSE e R². O sistema de recomendações automatizado analisa condições atuais e gera sugestões inteligentes para otimização da produção, representando um marco na aplicação de IA ao agronegócio brasileiro.
 
-## 📁 Estrutura de pastas
+## Estrutura de pastas
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
@@ -49,7 +49,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>INSTRUCOES_EXECUCAO.md</b>: Guia detalhado para execução e demonstração do projeto.
 
-## 🔧 Como executar o código
+## Como executar o código
 
 ### Pré-requisitos
 - Python 3.8 ou superior
@@ -105,7 +105,7 @@ python recomendacoes.py
 - **Sistema de Recomendações**: Sugestões automatizadas para irrigação e fertilização
 - **Métricas de Performance**: MAE, MSE, RMSE, R² para todos os modelos
 
-## 🗃 Histórico de lançamentos
+## Histórico de lançamentos
 
 * 1.0.0 - 15/01/2025
     * Implementação completa da Fase 4
@@ -120,17 +120,17 @@ python recomendacoes.py
     * Consultas SQL analíticas
     * Integração com dados IoT da Fase 2
 
-* 0.2.0 - 01/10/2024
+* 0.2.0 - 01/10/2025
     * Fase 2: Sistema de irrigação inteligente
     * Hardware ESP32 + sensores IoT
     * Software Python + análise estatística R
     * Integração com API meteorológica
 
-* 0.1.0 - 15/09/2024
+* 0.1.0 - 15/09/2025
     * Concepção inicial do projeto FarmTech Solutions
     * Definição da cultura da soja como foco
     * Estabelecimento dos parâmetros ideais de cultivo
 
-## 📋 Licença
+## Licença
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/flango2023/FarmTech-Solutions-Fase4">FarmTech Solutions - Fase 4</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">FIAP</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
