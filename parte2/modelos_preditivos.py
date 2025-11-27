@@ -308,6 +308,9 @@ class ModelosPreditivosAvancados:
         print("Executando Validação Cruzada...")
         cv_results = self.validacao_cruzada()
         
+        # Salvar modelos automaticamente
+        self.salvar_modelos()
+        
         return self.resultados, cv_results
     
     def salvar_modelos(self, diretorio="../models/modelos_treinados"):

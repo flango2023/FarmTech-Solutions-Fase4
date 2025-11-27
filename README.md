@@ -72,25 +72,25 @@ FarmTech-Solutions-Fase4/
 
 ## Como Executar
 
-### 1. Instalar Dependências
+### Parte 1: Pipeline Básico
 ```bash
 cd parte1
 pip install -r requirements.txt
-```
-
-### 2. Executar Pipeline ML
-```bash
 python ml_pipeline.py
-```
-
-### 3. Iniciar Dashboard
-```bash
 streamlit run dashboard_streamlit.py
 ```
 
-### 4. Acessar Interface
+### Parte 2: Sistema Completo (RECOMENDADO)
+```bash
+cd parte2
+pip3 install scikit-learn pandas numpy matplotlib seaborn plotly streamlit joblib
+python3 executar_parte2.py
+streamlit run app_streamlit_completo.py
+```
+
+### Acessar Interface
 - URL: http://localhost:8501
-- Interface otimizada para gestores agrícolas
+- Interface completa com todos os modelos de ML
 
 ## Funcionalidades do Dashboard
 
