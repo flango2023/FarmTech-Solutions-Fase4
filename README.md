@@ -5,11 +5,12 @@
 </p>
 
 <br>
+
 # FarmTech Solutions - Fase 4: Assistente Agrícola Inteligente
 
 ## Descrição do Projeto
 
-Nestaúltima fase do FarmTech Solutions, eu usei Sistema de Inteligência Artificial aplicado ao agronegócio que utiliza Machine Learning supervisionado para prever variáveis críticas do campo e sugerir ações automatizadas de irrigação e manejo agrícola.
+Nesta última fase do FarmTech Solutions, eu usei Sistema de Inteligência Artificial aplicado ao agronegócio que utiliza Machine Learning supervisionado para prever variáveis críticas do campo e sugerir ações automatizadas de irrigação e manejo agrícola.
 
 ## Cultura Escolhida: SOJA
 
