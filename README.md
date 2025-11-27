@@ -1,8 +1,16 @@
+# FIAP - Faculdade de Informática e Administração Paulista
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
+
 # FarmTech Solutions - Fase 4: Assistente Agrícola Inteligente
 
 ## Descrição do Projeto
 
-Sistema de Inteligência Artificial aplicado ao agronegócio que utiliza Machine Learning supervisionado para prever variáveis críticas do campo e sugerir ações automatizadas de irrigação e manejo agrícola.
+Nesta última fase do FarmTech Solutions, eu usei Sistema de Inteligência Artificial aplicado ao agronegócio que utiliza Machine Learning supervisionado para prever variáveis críticas do campo e sugerir ações automatizadas de irrigação e manejo agrícola.
 
 ## Cultura Escolhida: SOJA
 
@@ -123,4 +131,7 @@ streamlit run app_streamlit_completo.py
 - Desenvolvimento: Richard Schmitz
 - RM: 567951
 - Curso: Inteligência Artificial - FIAP
-- Data: Janeiro 2025
+- Data: 27.11.2025
+
+# - Licença
+Este projeto foi composto na maior parte com ajuda de IA ( Amazon Titan and GPT) 
